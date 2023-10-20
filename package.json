@@ -1,0 +1,10 @@
+{
+  "name": "gzip-response",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "author": "gimjin",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
